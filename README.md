@@ -2,7 +2,7 @@
 
 This project aims to analyze my Gmail Inbox emails and resolve my insufficient storage issues. This project consists of web scraping, cleaning and transforming, and analyzing the data gotten from my Gmail using Python. 
 
-Below are my findings from my Gmail accoubt:
+Below are my findings from my Gmail account:
 
 **Top Email Accounts**
 ![Top_Email](https://github.com/Daniel-Juri/Gmail_Analysis/assets/104275570/1affb51b-c2b1-44a5-9ffb-c76fefc832b0)
